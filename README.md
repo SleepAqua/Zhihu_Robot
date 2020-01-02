@@ -2,7 +2,7 @@
 ## 使用
 ### 使用方法
 * 首先无论是什么操作系统，都需要拥有一个包含'hanCookies的json文件来帮助程序正常登录知乎账号
-  * 建议方法：Chrome的扩展程序：(EditThisCookie)[http://www.chromestore.cn/2018/09/18/editthiscookie]可以直接导出，粘贴至一个新建json文件即可
+  * 建议方法：Chrome的扩展程序：(EditThisCookie)[http://www.chromestore.cn/2018/09/18/editthiscookie] 可以直接导出，粘贴至一个新建json文件即可
 * Windows环境下直接下载exe文件，双击运行，按照提示步骤进行即可
 * Linux/OS环境下下载py源码文件，用命令行运行
 ### 使用注意
