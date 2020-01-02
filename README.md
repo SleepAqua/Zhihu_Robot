@@ -1,14 +1,20 @@
 # 知乎机器人
+## 更新日志
+### 2019/Jan/01
+优化参数输入，同步更新exe
+
+
 ## 使用
 ### 使用方法
-* 首先无论是什么操作系统，都需要拥有一个包含'hanCookies的json文件来帮助程序正常登录知乎账号
-  * 建议方法：Chrome的扩展程序：[EditThisCookie](http://www.chromestore.cn/2018/09/18/editthiscookie)可以直接导出，粘贴至一个新建json文件即可
+* 首先无论是什么操作系统，都需要拥有一个包含登陆状态知乎网站的Cookies的json文件来帮助程序正常登录知乎账号
+  * 建议方法：Chrome的扩展程序：[EditThisCookie](http://www.chromestore.cn/2018/09/18/editthiscookie)可以直接导出Cookies，粘贴至一个新建json文件即可
 * Windows环境下直接下载exe文件，双击运行，按照提示步骤进行即可
 * Linux/OS环境下下载py源码文件，用命令行运行
 ### 使用注意
 * 需要安装Chrome
 * 需要安装对应版本的chromedriver（exe文件不需要）
 * 需要知道自己的知乎个人域名，可从知乎设置页面的个性域名中获取与编辑。
+
 
 ## 开发
 ### 开发目的
